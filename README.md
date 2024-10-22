@@ -26,8 +26,3 @@ And much, much more. You’ll walk away from this with your mind blown and your 
    ```bash
    git clone https://github.com/Aayush2708/SQL.git
    cd SQL
-
-   Run
-
-  git config --global user.email "aayushnonu15@gmail.com"
-  git config --global user.name "Aayush2708"
