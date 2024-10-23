@@ -10,7 +10,6 @@ This `.ipynb` notebook contains 25 (yes, **twenty-five!**) SQL tips and tricks t
 - 💡 **25 SQL Tips and Tricks**: Queries you didn't know you needed!
 - 🏗 **SQL Techniques**: From filtering with `WHERE` to unleashing `OR`, `NOT`, and `LIKE`.
 - 🎯 **Data-centric Queries**: All tricks come with **real use cases** (because who needs theory when you have data?).
-- 🕵️ **Cool SQL Hacks**: Tricks for optimizing, summarizing, and visualizing your data.
 - 💬 **Witty Commentary**: Because SQL doesn't have to be boring. 😉
 
 ## 🚀 Tips You’ll Learn:
