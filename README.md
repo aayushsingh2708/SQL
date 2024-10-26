@@ -26,36 +26,40 @@ And much, much more. You’ll walk away from this with your mind blown and your 
    git clone https://github.com/Aayush2708/SQL.git
    cd SQL
 
-📦 Using the .bak File with SQL Server and SQL Server Management Studio
-Open SQL Server Management Studio (SSMS):
+## 📦 Using the .bak File with SQL Server and SQL Server Management Studio
 
-Launch SSMS and connect to your SQL Server instance.
-Restore Database:
+1. **Open SQL Server Management Studio (SSMS)**:
+   - Launch SSMS and connect to your SQL Server instance.
 
-Right-click on the Databases node in Object Explorer.
-Select Restore Database....
-Choose Device:
+2. **Restore Database**:
+   - Right-click on the **Databases** node in Object Explorer.
+   - Select **Restore Database...**.
 
-In the Restore Database dialog, select the Device option.
-Click on the … (ellipsis) button and add your .bak file.
-Complete the Restore:
+3. **Choose Device**:
+   - In the Restore Database dialog, select the **Device** option.
+   - Click on the **…** (ellipsis) button and add your `.bak` file.
 
-Select the database to restore and click OK.
-Wait for the restoration process to complete, and you’re all set!
-☁️ Connecting with Azure Data Studio
-Open Azure Data Studio:
+4. **Complete the Restore**:
+   - Select the database to restore and click **OK**.
+   - Wait for the restoration process to complete, and you’re all set!
 
-Launch Azure Data Studio on your machine.
-Create a New Connection:
 
-Click on New Connection or press Ctrl + N.
-Enter Connection Details:
+## ☁️ Connecting with Azure Data Studio
 
-Server: Enter your server name (e.g., your_server_name.database.windows.net).
-Authentication Type: Choose SQL Login or another method as needed.
-Username: Provide your SQL username.
-Password: Enter your password.
-Database: Optionally, specify the database name you want to connect to.
-Connect:
+1. **Open Azure Data Studio**:
+   - Launch Azure Data Studio on your machine.
 
-Click on the Connect button, and you’ll be connected to your Azure SQL database!
+2. **Create a New Connection**:
+   - Click on **New Connection** or press **Ctrl + N**.
+
+3. **Enter Connection Details**:
+   - **Server**: Enter your server name (e.g., `your_server_name.database.windows.net`).
+   - **Authentication Type**: Choose SQL Login or another method as needed.
+   - **Username**: Provide your SQL username.
+   - **Password**: Enter your password.
+   - **Database**: Optionally, specify the database name you want to connect to.
+
+4. **Connect**:
+   - Click on the **Connect** button, and you’ll be connected to your Azure SQL database!
+
+**🎉 You're all set! Go forth and conquer the world of SQL with confidence! 🚀**
