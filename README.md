@@ -3,7 +3,7 @@
 
 Welcome to the ultimate guide to mastering SQL like a data wizard! 🧙‍♂️ Whether you’re building complex queries or just trying to get that one pesky `JOIN` to work (we’ve all been there), this repository is here to make SQL your superpower.
 
-This `.ipynb` notebook contains 25 (yes, **twenty-five!**) SQL tips and tricks that will elevate your database-fu. We're talking about everything from basic `SELECT` statements to magical incantations involving `GROUP BY`, `HAVING`, `COUNT`, and even the mystical `MIN/MAX` combo.
+This `.ipynb` notebook contains 25 (yes, **twenty-five!**) SQL tips and tricks that will elevate your database-fu. We're talking about everything from basic `SELECT` statements to magical incantations involving `GROUP BY`, `HAVING`, `COUNT`, and even the mystical `MIN/MAX` combo. We're using the w3schools_tutor3 database for all our queries, it is also present in this repository.
 
 ## 🛠 What's Inside?
 
