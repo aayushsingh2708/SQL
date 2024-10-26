@@ -25,3 +25,37 @@ And much, much more. You’ll walk away from this with your mind blown and your 
    ```bash
    git clone https://github.com/Aayush2708/SQL.git
    cd SQL
+
+📦 Using the .bak File with SQL Server and SQL Server Management Studio
+Open SQL Server Management Studio (SSMS):
+
+Launch SSMS and connect to your SQL Server instance.
+Restore Database:
+
+Right-click on the Databases node in Object Explorer.
+Select Restore Database....
+Choose Device:
+
+In the Restore Database dialog, select the Device option.
+Click on the … (ellipsis) button and add your .bak file.
+Complete the Restore:
+
+Select the database to restore and click OK.
+Wait for the restoration process to complete, and you’re all set!
+☁️ Connecting with Azure Data Studio
+Open Azure Data Studio:
+
+Launch Azure Data Studio on your machine.
+Create a New Connection:
+
+Click on New Connection or press Ctrl + N.
+Enter Connection Details:
+
+Server: Enter your server name (e.g., your_server_name.database.windows.net).
+Authentication Type: Choose SQL Login or another method as needed.
+Username: Provide your SQL username.
+Password: Enter your password.
+Database: Optionally, specify the database name you want to connect to.
+Connect:
+
+Click on the Connect button, and you’ll be connected to your Azure SQL database!
